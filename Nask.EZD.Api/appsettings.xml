@@ -1,0 +1,6 @@
+<configuration>
+     <MyModule1> 
+        <Option1>30</Option1>
+        <Protocol>http</Protocol>
+    </MyModule1>
+</configuration>
